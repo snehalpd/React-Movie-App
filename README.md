@@ -14,4 +14,5 @@ search:"https://api.themoviedb.org/3/search/movie?&api_key=b38d98e5f68e416f8542e
 
 
 ##To begin the development, run `npm start` or `yarn start`.
+
 ##To create a production bundle, use `npm run build` or `yarn build`.
