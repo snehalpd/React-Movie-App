@@ -1,4 +1,4 @@
-## Movies App w/ React
+## Movies App - React
 
     -   Project (CRA) Cleanup
     -   API calls
