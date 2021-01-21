@@ -1,6 +1,5 @@
 ## Movies App - React
 
-    -   Project (CRA) Cleanup
     -   API calls
     -   Search
     -   Movie info
